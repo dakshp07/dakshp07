@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Daksh Paleria 
+### Hey 👋, I'm Daksh Paleria 
 
 <a href="https://www.linkedin.com/in/daksh-paleria-606211190/">
   <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -40,6 +40,8 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
