@@ -17,17 +17,17 @@
 <br />
 <br />
 
-Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, currently, I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, currently, I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy Eating Food And Traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Looking For Internships;
-- 🌱 I’m currently learning Firebase; 
+- 🌱 I’m Currently Learning Firebase; 
 - 👯 Open For Collaboration;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: dpaleria@gmail.com;
+- 💬 Ask Me About Anything, I Am Happy To Help;
+- 📫 How To Reach Me: dpaleria@gmail.com;
 
 **Languages and Tools:**  
 
