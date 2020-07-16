@@ -47,7 +47,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 
 
 
-![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&show_icons=true&hide_border=false)
+![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&show_icons=true&hide_border=true)
 
 Do Give A Look To My [Repositories](https://github.com/dakshp07?tab=repositories) And ⭐ It 
 
