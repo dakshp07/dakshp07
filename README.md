@@ -12,6 +12,9 @@
 <a href="https://www.hackerrank.com/dpaleria">
   <img align="left" alt="Daksh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
 </a>
+<a href="https://github.com/dakshp07">
+  <img align="left" alt="Daksh's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
 
 
 <br />
@@ -44,7 +47,8 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 <code><img height="30" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<code><img height="30" src="https://azurecomcdn.azureedge.net/cvt-bd383886e0808b8ab07ddf7ede390cf80a6f49947ed01b8e1bfd4cb2a9ed9daf/images/page/products/visual-studio-code/vscode-logo.png"></code>
+<code><img height="30" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
 
 
 ![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&show_icons=true&hide_border=true)
