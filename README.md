@@ -25,7 +25,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 
 - 👨🏽‍💻 Looking For Internships;
 - 🌱 I’m currently learning Firebase; 
-- 👯 Happy To Get Collabrated;
+- 👯 Open For Collaboration;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dpaleria@gmail.com;
 
