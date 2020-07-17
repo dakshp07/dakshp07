@@ -54,7 +54,8 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 <code><img height="30" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
 
 
-![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&show_icons=true&hide_border=true)
+
+![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
 Do Give A Look To My [Repositories](https://github.com/dakshp07?tab=repositories) And ⭐ It 
 
