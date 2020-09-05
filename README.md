@@ -54,7 +54,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 <code><img height="35" src="https://code.visualstudio.com/assets/updates/1_35/logo-stable.png"></code>
 <code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
 <code><img height="35" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
-<code><img height="35" src="https://www.nicepng.com/png/detail/380-3804499_firebase-logo-google-logo-firebase-firebase-png.png"></code>
+<code><img height="35" src="https://static.dribbble.com/users/528264/screenshots/3140440/firebase_logo.png"></code>
 
 
 
