@@ -30,7 +30,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Looking For **Internships**;
-- 🌱 I’m Currently Working On **Instagram Clone**; 
+- 🌱 I’m Currently Working On **New Projects**; 
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
 - 📫 How To Reach Me: dpaleria@gmail.com;
