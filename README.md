@@ -15,6 +15,9 @@
 <a href="https://www.behance.net/dpaleria97c7">
   <img align="left" alt="Daksh's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" />
 </a>
+<a href="https://gitlab.com/dakshp07">
+  <img align="left" alt="Daksh's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg" />
+</a>
 <a href="https://sourcerer.io/dakshp07">
   <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://avatars3.githubusercontent.com/u/29913589?s=200&v=4"  />
 </a>
