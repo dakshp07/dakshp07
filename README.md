@@ -65,6 +65,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 <code><img height="35" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png"></code>
 <code><img height="35" src="https://miro.medium.com/max/700/1*fIjRtO5P8zc3pjs0E5hYkw.png"></code>
 <code><img height="35" src="https://kinsta.com/wp-content/uploads/2018/05/what-is-php-3-1.png"></code>
+<code><img height="35" src="https://cakephp.org/img/trademarks/logo-2.jpg"></code>
 <code><img height="35" src="https://mariadb.org/wp-content/uploads/2019/01/cropped-mariadb_org_rgb_v-2.png"></code>
 <code><img height="35" src="https://www.docker.com/sites/default/files/social/docker_facebook_share.png"></code>
 
