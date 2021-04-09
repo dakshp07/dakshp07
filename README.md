@@ -49,6 +49,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 <code><img height="35" src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="35" src="https://specials-images.forbesimg.com/imageserve/5e7cce1921695a000666cc29/960x0.jpg?fit=scale"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://www.adobe.com/content/dam/cc/icons/xd.svg"></code>
 <code><img height="35" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
