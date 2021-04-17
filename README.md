@@ -28,7 +28,7 @@
 
 Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT And A Technical Team Member At Team Fourth Dimension And Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy Eating Food And Traveling.
 
-  <img align="right" alt="GIF"  width="350"  height="320"  src="https://media4.giphy.com/media/3ohzdR8dwIZNjqrZss/200.webp?cid=ecf05e47628c903fc59636b95388c15e08741d93d5cb5171&rid=200.webp" />
+  <img align="right" alt="GIF"  width="350"  height="320"  src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
