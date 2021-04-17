@@ -18,9 +18,6 @@
 <a href="https://gitlab.com/dakshp07">
   <img align="left" alt="Daksh's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg" />
 </a>
-<a href="https://sourcerer.io/dakshp07">
-  <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://avatars3.githubusercontent.com/u/29913589?s=200&v=4"  />
-</a>
 <a href="https://dakshpaleria.me/">
   <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
 </a>
