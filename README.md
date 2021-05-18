@@ -6,6 +6,9 @@
 <a href="https://www.instagram.com/dakshp_07/">
   <img align="left" alt="Daksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://twitter.com/dakshp07">
+  <img align="left" alt="Daksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 <a href="mailto:dpaleria@gmail.com">
   <img align="left" alt="Mail Daksh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
