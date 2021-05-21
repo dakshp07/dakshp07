@@ -24,6 +24,9 @@
 <a href="https://dakshpaleria.me/">
   <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
 </a>
+<a href="https://dakshp07.medium.com/">
+  <img align="left" alt="Medium Daksh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+</a>
 
 
 <br />
