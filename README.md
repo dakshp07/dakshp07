@@ -80,6 +80,8 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web 
 
 ![Daksh's github stats](https://github-readme-stats.vercel.app/api?username=dakshp07&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dakshp07&theme=dark)](https://git.io/streak-stats)
+
 ![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=dakshp07&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
 
 Do Give A Look To My [Repositories](https://github.com/dakshp07?tab=repositories) And ⭐ It 
