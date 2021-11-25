@@ -35,7 +35,7 @@
 <br />
 <br />
 
-Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻 , Frontend Web Developer And Designer , UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT, A Technical Team Member At Team Fourth Dimension, A Google Summer of Code 2021 (GSoC '21) Student Developer at Cuneiform Digital Library Initiative (CDLI) and Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/) . Beside's Programming, I Enjoy Eating Food And Traveling.
+Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻, Frontend Web Developer And Designer, UI/UX Designer from India, Currently I'm a Core Committee Member At IET-VIT, A Technical Team Member At Team Fourth Dimension, A Google Summer of Code 2021 (GSoC '21) Student Developer at Cuneiform Digital Library Initiative (CDLI) and Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/). Beside's Programming, I Enjoy Eating Food And Traveling.
 
   <img align="right" alt="GIF"  width="380"  height="350"  src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   
