@@ -24,7 +24,7 @@
 <a href="https://gitlab.com/dakshp07">
   <img align="left" alt="Daksh's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg" />
 </a>
-<a href="https://dakshpaleria.me/">
+<a href="https://dakshpaleria.live/">
   <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
 </a>
 <a href="https://dakshp07.medium.com/">
