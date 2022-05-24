@@ -35,17 +35,22 @@
 <br />
 <br />
 
+
+
 Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻, Frontend Web Developer from India, Currently I'm a Core Committee Member At IET-VIT, A Technical Team Member At Team Fourth Dimension, A Google Summer of Code 2021 (GSoC '21) Student Developer at Cuneiform Digital Library Initiative (CDLI). I'm also into blockchain which helped me get through Summer of Bitcoin 2022 (SoB '22) at bcoin org and Yes I Am A Student Completing My BTech 👨‍🎓(2019-23) Graduation in CSE from [VIT](https://vit.ac.in/). Beside's Programming, I Enjoy Eating Food And Traveling.
 
-  <img align="right" alt="GIF"  width="380"  height="350"  src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611c317b90bfaaf16cfad2093ec29b79bae45b84a9f&rid=giphy.gif" />
-  
-**Talking about Personal Stuffs:**
+<img style="float: right" alt="GIF"  width="400"  height="350"  src="https://c.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+ 
+<div style="clear: right">
+
+  **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 Looking For **Internships**;
 - 🌱 I’m Currently Working On **New Projects**; 
 - 👯 Open For **Collaboration**;
 - 💬 Ask Me About Anything, I Am Happy To **Help**;
 - 📫 How To Reach Me: dpaleria@gmail.com;
+  </div>
 
 **Languages and Tools:**  
 
@@ -78,6 +83,9 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻, Frontend Web D
 <code><img height="35" src="https://cakephp.org/img/trademarks/logo-2.jpg"></code>
 <code><img height="35" src="https://mariadb.org/wp-content/uploads/2019/01/cropped-mariadb_org_rgb_v-2.png"></code>
 <code><img height="35" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP"></code>
+<code><img height="35" src="https://bitcoin.org/img/icons/opengraph.png"></code>
+<code><img height="35" src="https://en.bitcoinwiki.org/upload/en/images/d/d5/Solidity.png"></code>
+<code><img height="35" src="https://ethereum.org/static/8ea7775026f258b32e5027fe2408c49f/f89fb/ethereum-logo-landscape-black.webp"></code>
 
 
 
