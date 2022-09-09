@@ -15,9 +15,6 @@
 <a href="https://leetcode.com/dakshp07/">
   <img align="left" alt="Daksh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
-<a href="https://www.hackerrank.com/dpaleria">
-  <img align="left" alt="Daksh's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" />
-</a>
 <a href="https://www.behance.net/dpaleria97c7">
   <img align="left" alt="Daksh's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" />
 </a>
