@@ -1,4 +1,4 @@
-## Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/>, I'm [Daksh Paleria!](https://dakshpaleria.live/) 
+## Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/>, I'm [Daksh Paleria!](https://dakshp07.github.io/) 
 
 <a href="https://www.linkedin.com/in/daksh-paleria-606211190/">
   <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
