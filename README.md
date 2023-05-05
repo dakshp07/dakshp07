@@ -1,31 +1,25 @@
 ## Hola <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px" height="30px"/>, I'm [Daksh Paleria!](https://dakshp07.github.io/) 
 
 <a href="https://www.linkedin.com/in/daksh-paleria-606211190/">
-  <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
 </a>
 <a href="https://www.instagram.com/dakshp_07/">
-  <img align="left" alt="Daksh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Daksh's Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />
 </a>
 <a href="https://twitter.com/dakshp07">
-  <img align="left" alt="Daksh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Daksh's Twitter" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" />
 </a>
 <a href="mailto:dpaleria@gmail.com">
-  <img align="left" alt="Mail Daksh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+  <img align="left" alt="Mail Daksh" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />
 </a>
 <a href="https://leetcode.com/dakshp07/">
-  <img align="left" alt="Daksh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
-</a>
-<a href="https://www.behance.net/dpaleria97c7">
-  <img align="left" alt="Daksh's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/behance.svg" />
-</a>
-<a href="https://gitlab.com/dakshp07">
-  <img align="left" alt="Daksh's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gitlab.svg" />
+  <img align="left" alt="Daksh's Leetcode" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=512" />
 </a>
 <a href="https://dakshp07.github.io/">
-  <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://cdn4.iconfinder.com/data/icons/contact-us-19/48/15-512.png"  />
+  <img align="left" alt="Daksh's Sourcerer" width="22px" src="https://img.icons8.com/?size=512&id=LoyAjcvVKv1K&format=png"  />
 </a>
 <a href="https://dakshp07.medium.com/">
-  <img align="left" alt="Medium Daksh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />
+  <img align="left" alt="Medium Daksh" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" />
 </a>
 
 
@@ -81,7 +75,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻, Frontend Web D
 <code><img height="35" src="https://mariadb.org/wp-content/uploads/2019/01/cropped-mariadb_org_rgb_v-2.png"></code>
 <code><img height="35" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP"></code>
 <code><img height="35" src="https://bitcoin.org/img/icons/opengraph.png"></code>
-<code><img height="35" src="https://en.bitcoinwiki.org/upload/en/images/d/d5/Solidity.png"></code>
+<code><img height="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png"></code>
 <code><img height="35" src="https://ethereum.org/static/8ea7775026f258b32e5027fe2408c49f/f89fb/ethereum-logo-landscape-black.webp"></code>
 
 
