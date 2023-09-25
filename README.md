@@ -76,7 +76,7 @@ Hi, I'm Daksh Paleria, a Android Developer (Flutter) 👨‍💻, Frontend Web D
 <code><img height="35" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP"></code>
 <code><img height="35" src="https://bitcoin.org/img/icons/opengraph.png"></code>
 <code><img height="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png"></code>
-<code><img height="35" src="https://ethereum.org/static/8ea7775026f258b32e5027fe2408c49f/f89fb/ethereum-logo-landscape-black.webp"></code>
+<code><img height="35" src="https://ethereum.org/static/d9cfbc9db0c375cc866bddc606ffb8b4/ece28/ethereum-logo-landscape-purple.png"></code>
 
 
 
