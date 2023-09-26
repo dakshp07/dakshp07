@@ -1,4 +1,4 @@
-## Hola, I'm [Daksh Paleria!](https://dakshp07.github.io/)
+<p style="font-size: 1000px;"><strong>Hola, I'm <a href="https://dakshp07.github.io/">Daksh Paleria!</a></strong></p>
 
 <a href="https://www.linkedin.com/in/daksh-paleria-606211190/">
   <img align="left" alt="Daksh's LinkdeIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
